@@ -1,0 +1,7 @@
+☐ Die User IDs zu Objekten @created(19-06-10 16:13)
+✔ Extensions installieren: Todo+ und TODO Highlight @done(19-06-12 20:27)
+☐ Daten des Matches in DB speichern (3. Normalform) @created(19-06-10 16:14)
+    ID, Raumname, PW, Datum, Status, Win
+    Spieler
+        IDs oder die Objekte, Team, Host, Captain
+☐ Reaction nur von "host" + entsprechender Message @created(19-06-10 16:14)
