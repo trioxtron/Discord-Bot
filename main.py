@@ -146,4 +146,4 @@ async def pokemon(ctx):
     await ctx.send(randompokemon)
 
 
-bot.run("NDk3ODMyMzAyMDY0MTczMDY3.XWuAfQ.RijdPXtL4PUYzrYfSPjA7Fq48m0") 
+bot.run("DISCOR_BOT_TOKEN") 
